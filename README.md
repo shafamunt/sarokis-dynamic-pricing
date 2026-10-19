@@ -18,7 +18,7 @@ python3 -m http.server 8000
 
 then open http://localhost:8000/demo.html
 
-Hosted artifact links: TBD (coordinator fills in after build)
+Hosted artifacts: pitch deck file `workspace/your_files/sarokis-pitch-deck/sarokis-pitch-deck.pptx` (artifact slug `sarokis-pitch-deck`), and interactive demo slug `saroki-s-dynamic-pricing-demo` (web_static, opened and shared from its artifact card in Muse).
 
 ## Continuing this work
 
