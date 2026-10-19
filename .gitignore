@@ -1,0 +1,16 @@
+# OS and editor noise
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.vscode/
+.idea/
+
+# Build artifacts if a hosted build is ever added
+dist/
+build/
+node_modules/
+
+# Local environment
+.env
+.env.local
